@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1306-jump-game-iii](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1306-jump-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0013-roman-to-integer) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
