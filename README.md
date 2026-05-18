@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0053-maximum-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0053-maximum-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1306-jump-game-iii](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1345-jump-game-iv) |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1306-jump-game-iii](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1345-jump-game-iv) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
