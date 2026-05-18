@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0217-contains-duplicate) |
 | [0416-partition-equal-subset-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0494-target-sum) |
 | [1306-jump-game-iii](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1306-jump-game-iii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0217-contains-duplicate) |
 | [1345-jump-game-iv](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1345-jump-game-iv) |
 ## String
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0494-target-sum) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
