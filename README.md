@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0053-maximum-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1306-jump-game-iii](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1306-jump-game-iii) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
