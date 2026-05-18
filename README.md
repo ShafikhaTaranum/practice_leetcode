@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0053-maximum-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0053-maximum-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0494-target-sum) |
 | [1306-jump-game-iii](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1345-jump-game-iv) |
 ## Hash Table
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0027-remove-element) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
