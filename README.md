@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0217-contains-duplicate) |
 | [1345-jump-game-iv](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2540-minimum-common-value) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
