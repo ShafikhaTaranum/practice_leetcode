@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0013-roman-to-integer) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
