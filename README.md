@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0217-contains-duplicate) |
 | [0416-partition-equal-subset-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [2540-minimum-common-value](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
