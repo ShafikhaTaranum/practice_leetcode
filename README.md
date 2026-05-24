@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0509-fibonacci-number) |
+| [1340-jump-game-v](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1340-jump-game-v) |
 ## Recursion
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0494-target-sum) |
 | [1306-jump-game-iii](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1345-jump-game-iv) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2540-minimum-common-value](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2540-minimum-common-value) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0217-contains-duplicate) |
+| [1340-jump-game-v](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1340-jump-game-v) |
 ## Binary Search
 |  |
 | ------- |
