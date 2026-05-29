@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0509-fibonacci-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
