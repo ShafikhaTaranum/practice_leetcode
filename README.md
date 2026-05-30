@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3161-block-placement-queries](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [2540-minimum-common-value](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/3161-block-placement-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1871-jump-game-vii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
