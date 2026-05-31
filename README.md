@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0217-contains-duplicate) |
 | [0416-partition-equal-subset-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0494-target-sum) |
+| [0735-asteroid-collision](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0735-asteroid-collision) |
 | [1306-jump-game-iii](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1345-jump-game-iv) |
@@ -129,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/2126-destroying-asteroids) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
