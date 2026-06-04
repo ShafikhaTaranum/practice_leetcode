@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0509-fibonacci-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0509-fibonacci-number) |
 | [1340-jump-game-v](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/1871-jump-game-vii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/0735-asteroid-collision) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ShafikhaTaranum/practice_leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
